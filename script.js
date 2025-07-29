@@ -28,8 +28,8 @@ noButton.addEventListener("click", function () {
 
 function handleYesClick() {
   titleElement.innerHTML = 
-    "Anh thương em bé của anh nhiều lắm, Anh chỉ đáng ghét thui chứ anh hỏng có gian dối gì với em bé của anh hết á<br>" +
-    "Anh hứa sẽ hong làm gì cho em bé hong vui nữa đouuu <3";
+    "Anh thương em bé của anh nhiều lắm, dù bây giờ mình hong còn quen nữa nhma bé lúc nào cũng là người quan trọng của anh hết nên anh sẽ nghe lời em bé<br>" +
+    "Anh chỉ đáng ghét thui chứ anh chưa bao giờ làm gì gian dối với em bé hết, anh hứa sẽ hong làm gì cho em bé hong vui nữa đouuu <3";
   
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
